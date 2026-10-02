@@ -1,0 +1,301 @@
+Student_ID,Hours_Studied,Attendance_Percent,Sleep_Hours,Previous_Score,Parental_Education,Internet_Access,Exam_Score
+S1125,9.4,93.7,6.3,70.2,Post Graduate,Yes,100.0
+S1057,4.4,77.1,6.5,70.5,Graduate,Yes,79.5
+S1285,1.1,82.5,8.7,76.3,Graduate,Yes,72.4
+S1066,4.9,82.2,6.2,56.9,High School,Yes,78.7
+S1114,4.6,83.3,6.5,85.8,Post Graduate,No,85.5
+S1284,9.3,81.8,7.3,53.1,Graduate,Yes,100.0
+S1132,2.9,77.3,7.0,69.8,High School,Yes,73.2
+S1278,5.1,65.2,6.5,53.1,High School,Yes,77.4
+S1037,1.1,76.8,6.6,73.5,High School,Yes,71.1
+S1106,8.8,69.3,5.0,75.7,High School,No,97.8
+S1081,5.7,74.0,5.1,70.1,Graduate,Yes,85.5
+S1248,8.5,83.7,5.7,84.1,Graduate,Yes,100.0
+S1288,5.6,88.3,7.2,71.6,Graduate,Yes,84.6
+S1108,5.5,81.2,4.0,77.6,Graduate,Yes,82.3
+S1279,4.2,91.4,7.9,51.8,Post Graduate,Yes,77.7
+S1267,2.1,69.9,6.9,71.8,Post Graduate,Yes,73.4
+S1003,8.0,86.1,8.1,80.3,Graduate,No,100.0
+S1080,4.6,71.6,7.4,74.4,High School,Yes,77.1
+S1213,6.3,70.9,6.7,70.9,Post Graduate,Yes,86.6
+S1182,2.9,63.9,7.0,61.1,Graduate,Yes,76.8
+S1091,6.9,84.9,7.9,40.5,Post Graduate,Yes,94.3
+S1090,5.2,71.0,6.1,67.5,Post Graduate,Yes,84.6
+S1206,6.0,74.1,6.8,72.4,Post Graduate,No,81.3
+S1123,2.2,89.7,7.4,90.7,Post Graduate,No,77.5
+S1074,0.0,100.0,4.8,59.6,Graduate,Yes,68.9
+S1298,6.6,75.6,6.6,67.7,High School,Yes,93.7
+S1173,5.7,93.7,7.7,49.6,High School,Yes,86.4
+S1102,5.1,80.1,5.7,65.7,High School,Yes,92.1
+S1065,7.7,76.0,6.6,82.3,High School,Yes,100.0
+S1104,4.7,75.5,4.6,73.4,High School,Yes,81.4
+S1088,3.9,89.5,7.4,62.3,High School,Yes,76.7
+S1014,1.6,93.1,9.4,63.9,Graduate,Yes,80.5
+S1156,8.7,78.9,7.1,64.7,Graduate,Yes,97.7
+S1274,3.0,88.3,6.5,56.0,Graduate,No,80.1
+S1160,3.1,99.6,5.8,74.3,Graduate,Yes,82.6
+S1154,5.6,74.7,5.4,58.4,High School,No,79.4
+S1002,6.3,87.5,7.5,65.3,Post Graduate,Yes,85.2
+S1281,6.3,80.1,5.9,81.7,High School,Yes,89.2
+S1055,6.9,80.1,6.6,78.4,High School,Yes,89.6
+S1170,3.2,77.2,7.3,64.4,Graduate,Yes,71.4
+S1194,5.3,95.2,5.2,73.8,Graduate,Yes,90.7
+S1212,6.9,77.6,8.2,75.4,Graduate,Yes,91.6
+S1276,5.4,82.4,5.9,44.7,Graduate,No,80.0
+S1113,9.9,92.8,7.0,56.7,Graduate,Yes,100.0
+S1101,4.2,74.0,7.8,76.1,Graduate,Yes,77.5
+S1139,2.5,79.4,7.7,77.6,Graduate,Yes,68.0
+S1176,5.0,85.8,5.6,46.3,Graduate,Yes,76.7
+S1060,4.0,80.1,5.8,72.7,High School,Yes,75.7
+S1234,9.3,73.5,6.5,62.1,Graduate,Yes,100.0
+S1018,3.2,83.2,7.1,59.6,Graduate,Yes,69.5
+S1254,2.0,83.4,8.2,84.7,High School,Yes,77.7
+S1070,5.7,80.2,8.0,66.5,Graduate,Yes,92.5
+S1228,3.6,82.6,6.0,64.2,Graduate,Yes,74.0
+S1241,4.8,68.7,7.3,81.5,Graduate,Yes,87.5
+S1172,4.8,64.8,7.3,65.9,High School,No,72.3
+S1286,4.7,80.1,7.2,53.2,Post Graduate,Yes,66.8
+S1138,6.6,63.0,8.5,67.7,Post Graduate,Yes,83.9
+S1227,2.8,80.5,5.9,55.9,High School,No,70.2
+S1246,4.1,85.8,6.8,51.8,High School,Yes,87.1
+S1022,5.1,71.8,8.8,66.6,Graduate,No,81.2
+S1290,5.1,80.1,7.5,66.3,Post Graduate,Yes,79.1
+S1270,7.9,80.2,6.3,74.1,Graduate,Yes,100.0
+S1030,3.8,79.9,4.5,58.3,Graduate,Yes,74.1
+S1150,5.5,79.4,5.4,57.5,Post Graduate,Yes,79.5
+S1168,4.5,74.7,5.7,59.4,High School,Yes,82.4
+S1193,2.5,71.4,5.0,65.6,Graduate,Yes,67.0
+S1094,4.2,91.8,7.2,53.0,Graduate,Yes,89.1
+S1118,7.3,91.8,6.1,61.2,High School,Yes,84.7
+S1086,6.8,83.4,6.2,83.0,Post Graduate,Yes,79.9
+S1293,6.7,83.3,7.9,68.8,Graduate,Yes,100.0
+S1258,5.9,83.9,5.8,76.8,Graduate,No,83.7
+S1111,4.9,68.8,6.4,67.4,Graduate,Yes,72.1
+S1174,5.1,96.4,7.2,77.0,High School,No,93.4
+S1084,3.4,72.4,6.6,65.0,Graduate,Yes,73.5
+S1232,5.1,79.3,5.3,84.4,High School,Yes,85.8
+S1024,3.9,69.9,8.4,79.3,Graduate,Yes,83.6
+S1282,8.2,86.3,5.9,76.0,Post Graduate,Yes,100.0
+S1062,2.8,78.9,6.5,67.4,Post Graduate,Yes,70.6
+S1240,3.4,88.4,6.4,61.4,High School,No,76.2
+S1078,5.2,100.0,7.6,46.0,High School,Yes,84.4
+S1099,4.5,92.4,6.3,71.9,Post Graduate,Yes,75.9
+S1050,5.6,83.1,8.7,62.1,High School,Yes,84.3
+S1126,3.0,70.4,6.5,65.5,Graduate,Yes,60.7
+S1256,5.1,75.1,6.6,56.7,High School,Yes,76.5
+S1255,4.0,75.9,5.8,77.1,High School,Yes,77.5
+S1061,4.6,95.3,5.8,80.9,Graduate,Yes,95.3
+S1179,5.1,91.2,7.2,75.2,Post Graduate,No,100.0
+S1188,3.3,96.9,6.4,61.9,Graduate,Yes,71.5
+S1069,3.7,72.3,7.8,47.8,Graduate,Yes,69.7
+S1036,5.4,80.1,7.5,52.7,Post Graduate,Yes,81.8
+S1040,6.5,71.8,6.1,49.6,Graduate,Yes,84.3
+S1147,2.4,70.6,5.6,46.1,High School,Yes,63.6
+S1011,4.1,91.0,6.4,67.6,Post Graduate,Yes,80.4
+S1239,6.7,74.2,6.2,73.4,Graduate,Yes,92.7
+S1245,4.3,72.0,7.1,65.2,Graduate,Yes,79.3
+S1181,5.1,70.4,4.9,60.8,Graduate,Yes,63.9
+S1155,3.6,72.1,9.7,56.9,Graduate,Yes,70.0
+S1141,7.6,79.7,5.0,59.5,Graduate,Yes,80.7
+S1098,5.0,78.9,7.6,58.1,High School,Yes,82.0
+S1164,6.9,78.9,7.9,60.7,Graduate,No,90.0
+S1046,4.1,65.5,3.3,46.7,Graduate,Yes,72.9
+S1199,2.7,66.2,6.5,69.2,High School,Yes,60.3
+S1115,5.6,72.5,7.8,67.4,Graduate,Yes,81.3
+S1128,5.2,90.6,5.9,72.4,High School,Yes,86.7
+S1249,5.8,74.0,5.9,54.8,High School,Yes,83.8
+S1189,2.0,88.8,4.5,62.6,High School,Yes,74.8
+S1129,4.0,62.4,5.6,52.7,Graduate,Yes,73.4
+S1292,3.8,84.8,7.8,57.8,High School,No,65.3
+S1015,3.9,80.2,6.7,68.3,High School,Yes,76.7
+S1007,6.5,74.1,5.0,74.0,High School,Yes,86.3
+S1266,8.3,59.6,6.8,81.6,High School,Yes,89.3
+S1161,6.6,80.4,6.6,30.8,Graduate,Yes,82.0
+S1216,3.5,85.0,6.8,93.8,Graduate,Yes,92.4
+S1163,3.4,82.1,6.4,44.1,High School,Yes,78.5
+S1220,9.6,63.3,5.9,78.3,High School,Yes,100.0
+S1089,6.0,74.2,7.0,65.3,High School,No,75.1
+S1202,7.2,66.0,6.6,90.1,Graduate,Yes,100.0
+S1097,5.5,93.5,5.0,72.7,Graduate,Yes,93.2
+S1244,2.6,55.3,6.7,62.9,Graduate,Yes,58.8
+S1008,4.1,85.5,4.4,72.7,Graduate,Yes,77.9
+S1028,3.8,86.2,6.6,83.8,High School,Yes,90.1
+S1027,5.8,87.9,6.3,69.5,High School,Yes,86.3
+S1122,7.8,77.5,4.9,64.7,High School,Yes,90.1
+S1052,3.6,88.6,6.2,50.0,High School,Yes,76.1
+S1269,5.3,76.5,8.9,75.2,Graduate,Yes,88.1
+S1058,5.7,83.2,6.7,71.8,High School,No,93.1
+S1148,6.0,74.9,5.8,82.7,High School,No,99.8
+S1273,5.0,77.8,5.6,64.2,High School,Yes,83.7
+S1153,5.5,85.0,7.8,68.1,Graduate,Yes,84.0
+S1223,1.8,85.7,6.1,51.3,Graduate,Yes,68.6
+S1031,8.7,71.0,6.6,87.6,Graduate,Yes,100.0
+S1001,4.7,74.4,6.6,60.3,Graduate,Yes,77.2
+S1271,2.1,96.8,5.5,68.4,High School,No,65.6
+S1013,1.2,88.1,5.1,83.9,Graduate,Yes,82.0
+S1009,6.1,78.0,8.3,91.0,Graduate,Yes,91.0
+S1283,2.5,100.0,7.8,46.2,Graduate,Yes,72.8
+S1095,2.1,75.3,6.1,61.6,Graduate,Yes,75.7
+S1034,6.6,89.8,6.6,70.3,Graduate,Yes,95.2
+S1096,5.6,62.9,6.9,86.6,High School,Yes,97.7
+S1296,5.1,77.3,6.3,64.8,Post Graduate,Yes,88.9
+S1177,7.9,83.1,6.2,59.9,High School,Yes,82.5
+S1145,5.1,86.7,5.6,75.6,High School,Yes,98.6
+S1230,3.5,86.4,4.9,68.9,High School,No,76.8
+S1184,5.1,72.4,7.2,69.6,Graduate,Yes,87.0
+S1045,3.6,82.3,6.2,52.2,High School,Yes,67.3
+S1242,6.0,85.3,5.2,63.2,High School,Yes,76.8
+S1032,5.0,80.8,6.3,47.6,High School,Yes,71.4
+S1077,4.4,81.8,8.6,35.9,Graduate,Yes,73.1
+S1264,4.5,92.0,5.8,77.3,High School,Yes,93.1
+S1133,5.9,87.2,4.5,72.8,Post Graduate,No,83.6
+S1144,5.5,67.0,7.1,62.9,High School,Yes,72.0
+S1063,2.6,84.0,5.8,73.5,Graduate,No,80.2
+S1082,8.0,58.8,5.9,53.4,Graduate,Yes,91.7
+S1225,7.2,80.1,8.2,51.2,Post Graduate,No,85.0
+S1217,4.5,80.1,7.6,64.3,High School,Yes,88.8
+S1226,5.1,63.7,8.4,68.6,Graduate,No,85.4
+S1041,5.3,82.4,8.5,75.5,Graduate,No,88.4
+S1294,5.7,90.4,8.2,45.9,Graduate,Yes,90.7
+S1109,4.9,85.1,8.5,58.6,High School,Yes,85.0
+S1171,3.4,57.0,5.8,70.7,High School,Yes,73.3
+S1210,6.1,82.7,6.3,62.7,High School,Yes,94.9
+S1121,3.2,97.6,4.4,58.1,Post Graduate,Yes,66.4
+S1051,4.2,94.8,7.9,69.2,Post Graduate,Yes,85.2
+S1056,3.3,79.8,6.5,69.1,High School,Yes,79.8
+S1236,0.9,71.4,8.4,79.3,Graduate,Yes,73.8
+S1158,2.6,74.5,5.5,71.5,Graduate,Yes,70.7
+S1085,4.0,80.1,7.4,51.1,Graduate,Yes,81.7
+S1120,6.6,100.0,6.9,71.3,High School,Yes,97.2
+S1289,3.8,71.4,7.8,53.4,High School,Yes,69.5
+S1291,5.1,75.2,7.1,49.0,High School,No,81.4
+S1214,4.4,74.2,7.7,66.8,High School,No,70.4
+S1222,6.4,73.4,9.3,72.7,Graduate,Yes,87.4
+S1280,5.2,83.4,9.5,67.2,Graduate,No,82.9
+S1087,5.7,98.8,6.1,75.5,High School,No,97.1
+S1165,5.8,77.8,5.7,51.6,Graduate,Yes,80.7
+S1127,3.9,86.9,6.9,66.4,High School,No,81.3
+S1105,5.8,86.2,7.2,69.7,High School,Yes,93.0
+S1235,6.3,80.5,6.8,76.6,Graduate,No,90.3
+S1049,1.5,77.9,7.3,67.9,High School,Yes,74.3
+S1208,6.0,80.5,8.0,57.5,Post Graduate,Yes,84.5
+S1005,5.1,81.2,8.8,65.6,Post Graduate,No,86.8
+S1017,5.6,76.9,7.4,67.2,Graduate,No,85.9
+S1237,5.4,76.2,5.3,50.3,Post Graduate,Yes,75.6
+S1116,5.1,95.5,6.6,57.2,Post Graduate,Yes,75.4
+S1231,5.4,63.4,5.4,70.1,Post Graduate,Yes,78.3
+S1187,4.9,69.2,7.1,67.9,Post Graduate,Yes,91.7
+S1162,7.3,73.0,9.6,78.8,High School,Yes,91.6
+S1134,3.2,95.0,7.7,59.2,Graduate,Yes,84.9
+S1238,3.7,90.1,7.7,72.2,Graduate,Yes,90.2
+S1190,4.1,80.1,7.0,64.1,Graduate,Yes,85.1
+S1064,6.6,86.9,5.6,63.9,Graduate,No,92.0
+S1026,2.7,91.6,5.3,58.3,High School,Yes,76.1
+S1207,6.0,71.4,6.6,52.4,Post Graduate,Yes,79.0
+S1169,3.5,74.2,8.7,69.2,Graduate,No,80.3
+S1180,6.3,78.7,6.7,60.8,Post Graduate,Yes,87.7
+S1100,2.2,80.1,5.9,81.8,Graduate,Yes,69.8
+S1197,5.3,78.1,7.3,41.0,Graduate,Yes,82.0
+S1135,8.1,80.7,7.1,83.9,Post Graduate,Yes,100.0
+S1287,6.2,71.5,6.1,62.3,Graduate,No,91.9
+S1263,3.0,76.7,8.7,45.3,Graduate,Yes,68.2
+S1198,5.1,71.2,6.5,76.0,High School,Yes,88.9
+S1117,2.7,81.2,6.7,59.2,Post Graduate,Yes,71.3
+S1166,6.6,86.1,6.5,49.5,High School,Yes,90.5
+S1261,4.9,100.0,6.6,92.5,High School,No,88.0
+S1136,3.4,96.3,6.8,50.3,High School,Yes,87.3
+S1029,4.4,86.3,7.8,64.2,Graduate,Yes,74.8
+S1079,5.1,71.9,8.0,74.1,Graduate,Yes,75.2
+S1204,2.2,73.5,6.0,78.3,High School,Yes,66.2
+S1140,5.5,83.8,4.3,85.2,Graduate,Yes,78.5
+S1157,5.9,69.6,6.6,79.1,High School,Yes,88.7
+S1131,5.1,59.6,5.3,45.0,Graduate,No,66.1
+S1039,5.1,74.4,4.9,58.2,Graduate,Yes,85.8
+S1265,2.5,75.9,6.6,94.3,High School,No,91.1
+S1205,3.1,75.1,6.1,52.5,High School,No,66.8
+S1215,6.5,87.6,4.7,69.4,Graduate,Yes,85.4
+S1253,7.1,82.5,7.9,49.1,Graduate,Yes,85.1
+S1054,7.1,79.8,9.6,64.0,High School,Yes,98.8
+S1295,3.6,74.9,7.3,70.3,Graduate,Yes,79.3
+S1200,5.7,89.3,7.6,77.0,Graduate,Yes,100.0
+S1043,4.4,74.9,4.7,63.8,Graduate,Yes,87.9
+S1259,6.5,75.8,7.3,61.1,High School,No,89.0
+S1048,5.7,72.8,6.2,64.5,High School,Yes,70.3
+S1035,2.6,78.5,4.5,59.0,Graduate,Yes,69.3
+S1059,7.0,80.1,6.3,70.4,Post Graduate,Yes,94.1
+S1143,5.4,79.1,6.5,64.5,Graduate,Yes,87.0
+S1053,6.2,78.4,5.2,82.3,High School,Yes,92.2
+S1020,7.9,81.0,5.6,77.9,Graduate,Yes,90.9
+S1124,6.2,86.5,6.7,85.7,Post Graduate,Yes,97.7
+S1142,1.8,59.3,5.8,77.9,High School,Yes,68.7
+S1110,1.2,87.1,6.8,80.8,High School,Yes,69.1
+S1243,6.7,94.4,7.0,66.5,Graduate,No,87.6
+S1076,5.2,88.7,5.2,59.6,High School,Yes,82.0
+S1277,3.8,87.7,6.8,63.8,Graduate,Yes,77.2
+S1268,4.1,61.3,7.3,72.1,High School,Yes,74.4
+S1107,5.3,78.6,8.6,72.6,Post Graduate,No,98.3
+S1093,4.3,98.3,7.2,56.8,Post Graduate,Yes,88.3
+S1012,5.5,88.3,6.8,68.0,High School,Yes,95.4
+S1016,3.0,86.8,6.6,72.3,Post Graduate,No,80.7
+S1047,7.1,65.9,6.4,56.7,Graduate,Yes,84.6
+S1186,5.9,80.1,7.5,77.4,High School,Yes,85.7
+S1203,7.1,85.6,5.9,63.3,High School,Yes,98.5
+S1262,0.0,88.7,8.4,48.3,Graduate,Yes,45.7
+S1119,6.5,80.7,6.4,70.1,Post Graduate,Yes,95.1
+S1021,4.5,86.0,7.1,52.7,Graduate,Yes,86.1
+S1146,2.5,83.7,6.7,72.8,High School,Yes,72.7
+S1178,4.5,100.0,6.4,83.0,Graduate,Yes,87.5
+S1083,4.0,74.7,7.1,64.4,High School,Yes,80.6
+S1130,1.9,68.2,6.6,61.9,High School,No,67.2
+S1159,6.3,68.0,7.3,60.6,High School,Yes,80.8
+S1209,5.1,71.7,5.4,88.0,Graduate,Yes,100.0
+S1221,1.3,85.4,8.2,79.2,High School,Yes,76.3
+S1073,8.1,89.6,6.1,57.2,High School,Yes,88.9
+S1229,6.4,71.0,6.2,68.9,Graduate,Yes,86.5
+S1299,6.3,83.8,5.5,81.4,High School,Yes,96.8
+S1033,2.9,73.2,6.0,38.6,High School,No,59.6
+S1004,4.5,79.8,7.0,67.3,Post Graduate,No,86.8
+S1019,2.2,78.7,6.8,67.3,High School,Yes,73.5
+S1219,5.2,87.5,7.8,77.6,Graduate,Yes,87.0
+S1185,6.4,65.8,7.8,70.2,Graduate,No,90.5
+S1149,5.6,69.4,4.8,81.6,High School,Yes,91.0
+S1224,4.1,72.4,6.0,84.6,Post Graduate,Yes,79.5
+S1247,3.7,78.0,9.4,47.7,High School,Yes,88.1
+S1272,7.3,83.3,4.8,66.3,High School,No,93.2
+S1151,5.7,89.6,4.9,69.7,Graduate,Yes,82.3
+S1233,3.7,67.9,5.6,70.4,Post Graduate,Yes,84.4
+S1010,4.1,77.8,7.3,61.3,Post Graduate,No,87.8
+S1071,8.1,85.0,4.0,56.8,Graduate,Yes,82.0
+S1252,9.2,91.7,5.7,57.3,Post Graduate,No,95.3
+S1092,3.6,80.1,5.2,62.0,Graduate,Yes,70.3
+S1192,5.4,80.8,6.8,73.7,Post Graduate,No,95.8
+S1257,3.6,75.7,6.6,92.0,Graduate,Yes,88.9
+S1297,5.6,70.2,6.7,71.6,High School,No,86.6
+S1195,5.8,85.4,7.8,64.0,High School,Yes,90.1
+S1137,4.4,66.2,7.7,47.4,Post Graduate,Yes,72.4
+S1260,3.1,82.9,6.7,35.0,High School,Yes,79.1
+S1038,2.3,84.1,5.0,67.9,Graduate,Yes,75.4
+S1201,6.1,99.1,5.9,30.2,High School,Yes,71.0
+S1251,6.8,78.4,5.8,39.2,High School,Yes,78.0
+S1112,5.1,64.7,5.8,89.9,Graduate,Yes,82.3
+S1183,6.0,82.0,7.2,89.9,Graduate,Yes,90.4
+S1152,3.6,70.1,5.3,70.9,Post Graduate,Yes,61.8
+S1191,6.7,94.8,6.7,64.6,Graduate,Yes,89.6
+S1044,2.0,75.3,6.2,87.2,High School,No,74.4
+S1275,5.9,57.9,8.7,61.6,Graduate,Yes,82.9
+S1006,8.2,92.8,5.6,48.7,High School,No,92.0
+S1250,2.5,80.9,5.8,53.1,High School,Yes,57.2
+S1075,6.6,72.3,5.6,42.3,Post Graduate,Yes,89.9
+S1000,6.0,71.7,7.4,69.4,Graduate,No,94.9
+S1068,5.7,81.0,3.3,64.5,Post Graduate,No,82.1
+S1167,8.8,87.6,8.6,78.9,Post Graduate,Yes,100.0
+S1218,4.0,81.0,6.6,67.4,Graduate,Yes,72.1
+S1042,4.8,82.4,6.2,72.8,Graduate,Yes,88.5
+S1072,4.9,94.5,6.1,75.1,Graduate,Yes,82.1
+S1023,2.2,100.0,8.1,56.6,Graduate,Yes,76.3
+S1103,3.4,80.5,4.8,57.2,High School,Yes,70.8
+S1211,7.3,79.5,6.0,67.6,Graduate,Yes,100.0
+S1067,7.0,80.1,8.3,86.6,Graduate,Yes,97.4
+S1025,5.2,67.9,5.9,46.7,Post Graduate,No,72.8
+S1196,3.2,69.6,6.5,65.9,Graduate,No,72.0
+S1175,6.7,77.5,4.6,59.1,High School,Yes,84.1
